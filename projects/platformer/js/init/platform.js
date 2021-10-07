@@ -37,8 +37,11 @@
         createPlatform(0, game.world.height - 32, 3, 2);    // DO NOT DELETE
 
         // example:
-        createPlatform(400, 250);
-        createPlatform(170, 460, 0.5);
+        createPlatform(400, 310);
+        createPlatform(50, 500, 0.5);
+        createPlatform(450, 590, 70);
+        createPlatform(200, 260, 0.3);
+        createPlatform(320, 420, 0.4);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
